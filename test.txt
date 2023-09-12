@@ -1,0 +1,1 @@
+This is nano text file create using nano git terminal command: nano text.txt
